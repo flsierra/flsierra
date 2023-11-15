@@ -2,7 +2,7 @@
 ### A continuación un poco de mi 
 
 
-- 💻 Ingeniero de Sistemas, con enfoque al desarrollo Web Back-end.
+-💻 Ingeniero de Sistemas, con enfoque al desarrollo Web Back-end.
 
 -📚 Apasionado por aprender, mi lema es: "Código hoy, aprendizaje infinito". Siempre estoy buscando la próxima tecnología emocionante para añadir a mi caja de herramientas.
 
