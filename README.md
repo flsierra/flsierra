@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hola, un gusto, mi nombre es Fabian Largo Sierra 👋
+### A continuación un poco de mi 
 
-<!--
-**flsierra/flsierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 Ingeniero de Sistemas, con enfoque al desarrollo Web Back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-📚 Apasionado por aprender, mi lema es: "Código hoy, aprendizaje infinito". Siempre estoy buscando la próxima tecnología emocionante para añadir a mi caja de herramientas.
+
+-🤝 Colaboración es mi segundo nombre (bueno, en GitHub al menos). ¡Siempre estoy abierto a ideas innovadoras y a trabajar en equipo para crear cosas asombrosas!
+
+-🌍 Fuera del mundo virtual, me encanta explorar nuevos lugares, ya sea en busca de un nuevo café acogedor ☕, un rincón de código inspirador 🧙‍♂️, o simplemente para disfrutar de la vida con mi familia. 👨‍👩‍👧‍👦
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=flsierra&show_icons=true&theme=gruvbox)
+
