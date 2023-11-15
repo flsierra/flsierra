@@ -10,5 +10,8 @@
 
 -🌍 Fuera del mundo virtual, me encanta explorar nuevos lugares, ya sea en busca de un nuevo café acogedor ☕, un rincón de código inspirador 🧙‍♂️, o simplemente para disfrutar de la vida con mi familia. 👨‍👩‍👧‍👦
 
+## Herramientas en las que me destaco
+
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=flsierra&show_icons=true&theme=gruvbox)
 
