@@ -11,6 +11,7 @@
 -🌍 Fuera del mundo virtual, me encanta explorar nuevos lugares, ya sea en busca de un nuevo café acogedor ☕, un rincón de código inspirador 🧙‍♂️, o simplemente para disfrutar de la vida con mi familia. 👨‍👩‍👧‍👦
 
 ## Herramientas en las que me destaco
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+![Java]![Etiqueta1](https://img.shields.io/badge/Lenguajes-Java-yellow)
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=flsierra&show_icons=true&theme=gruvbox)
 
